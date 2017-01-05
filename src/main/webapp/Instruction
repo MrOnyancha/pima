@@ -1,0 +1,10 @@
+
+ mvn archetype:generate -Dappengine-version=1.9.48 -Dapplication-id=your-app-id -Dfilter=com.google.appengine.archetypes:
+
+ mvn appengine:update
+
+ mvn appengine:deploy
+
+
+
+
